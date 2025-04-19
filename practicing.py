@@ -1,3 +1,2 @@
-a= 22
-b= 33
-print(b<a)
+nname= input ("enter your name: ")
+print(f"you have entered: {name}")
