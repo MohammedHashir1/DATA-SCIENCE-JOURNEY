@@ -1,2 +1,1 @@
-# Data Science
-first trial
+# DATA SCIENCE JOURNEY
